@@ -1,3 +1,11 @@
+# -*- coding:/ utf-8 -*-
+"""
+This piece of software is bound by The MIT License (MIT)
+Code written by : Prashank Kadam
+Email ID : prashankkadam07@gmail.com
+Created on - Feb 22 2020
+version : 1.0
+"""
 # import gym
 # env = gym.make('CartPole-v0')
 # for i_episode in range(20):
