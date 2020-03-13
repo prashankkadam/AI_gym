@@ -1,4 +1,4 @@
-# In this code we implement a simple Q based learning example in AIgym
+# In this code we implement a simple Q based learning example in AIgym 
 
 # Importing the required libraries
 import gym
