@@ -2,7 +2,7 @@
 # CartPole. Hill climbing algorithms basically generates an intial
 # random matrix and it's values are provided as an input to the
 # algorithm. The algorithm tries to find the best set of combinations
-# for the CartPole such that it balances with +-12 degrees
+# for the CartPole such that it balances with +-12 degrees 
 
 # Importing the required libraries
 import gym
